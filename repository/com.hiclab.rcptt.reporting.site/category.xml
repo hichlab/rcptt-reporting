@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.hiclab.rcptt.reporting.feature">
+      <category name="rcptt.reporting"/>
+   </feature>
+   <category-def name="rcptt.reporting" label="RCPTT Reports"/>
+</site>

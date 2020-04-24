@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="reporting.feature"
-      label="RCPTT Reports"
+      id="com.hiclab.rcptt.reporting.feature"
+      label="RCPTT Custom Reports"
       version="1.0.0.qualifier"
       provider-name="%providerName">
 
-   <description url="http://www.example.com/description">
-      [Enter Feature Description here.]
+   <description url="https://github.com/hichlab/rcptt-reporting">
+      Example of a custom report for RCPTT
    </description>
 
    <copyright url="http://www.example.com/copyright">
@@ -18,7 +18,7 @@
    </license>
 
    <plugin
-         id="reporting.plugin"
+         id="com.hiclab.rcptt.reporting"
          download-size="0"
          install-size="0"
          version="0.0.0"

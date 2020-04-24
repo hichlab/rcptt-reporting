@@ -12,6 +12,6 @@
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 
-	<artifactId>reporting.feature</artifactId>
+	<artifactId>com.hiclab.rcptt.reporting.feature</artifactId>
 	<packaging>eclipse-feature</packaging>
 </project>

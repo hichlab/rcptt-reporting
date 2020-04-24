@@ -12,6 +12,15 @@
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 
-	<artifactId>reporting.site</artifactId>
-	<packaging>eclipse-repository</packaging>
+	<artifactId>com.hiclab.rcptt.reporting</artifactId>
+	<packaging>eclipse-plugin</packaging>
+
+	<build>
+		<resources>
+			<resource>
+				<filtering>false</filtering>
+				<directory>${basedir}/resources</directory>
+			</resource>
+		</resources>
+	</build>
 </project>
